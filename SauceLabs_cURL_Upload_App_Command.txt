@@ -1,0 +1,1 @@
+curl -u crhoads:d4dfe90e-a6ed-42b4-bdf3-dc01ad58844e -X POST -H "Content-Type: application/octet-stream" https://saucelabs.com/rest/v1/storage/crhoads/Chamberlain_3.53.apk?overwrite=true --data-binary "@C:\Users\crhoads\Documents\myq-automation\app/Chamberlain_3.53.apk"

@@ -1,0 +1,7 @@
+Navigate to 
+
+C:\Users\crhoads\Desktop\SauceConnectProxy\sc-4.4.3-win32\bin
+
+Execute following command:
+
+sc-4.4.3-win32\bin>sc.exe -u crhoads -k d4dfe90e-a6ed-42b4-bdf3-dc01ad58844e
